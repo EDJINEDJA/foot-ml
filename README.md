@@ -1,11 +1,11 @@
 <p align="center">
-    <a href="https://github.com/EDJINEDJA/botbitget/blob/main/LICENSE" alt="Licence">
+    <a href="https://github.com/EDJINEDJA/foot-ml/blob/main/LICENSE" alt="Licence">
         <img src="https://img.shields.io/badge/license-MIT-yellow.svg" />
     </a>
-    <a href="https://github.com/EDJINEDJA/botbitget/commits/main" alt="Commits">
+    <a href="https://github.com/EDJINEDJA/foot-ml/commits/main" alt="Commits">
         <img src="https://img.shields.io/github/last-commit/EDJINEDJA/bot/main" />
     </a>
-    <a href="https://github.com/EDJINEDJA/botbitget" alt="Activity">
+    <a href="https://github.com/EDJINEDJA/foot-ml" alt="Activity">
         <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" />
     </a>
     <a href="http://matthaythornthwaite.pythonanywhere.com/" alt="Web Status">
@@ -22,4 +22,4 @@
 
 ## Aims and Objectives
 
-Bot of trading, It use Bitget exchange
+Football ml 
