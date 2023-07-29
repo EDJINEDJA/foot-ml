@@ -1,2 +1,2 @@
 BASE_URL: "http://api.football-data.org/v4"
-COMPETITIONS_URL: "http://api.football-data.org/v4/competitions/"
+COMPETITIONS_URL: "/competitions/"
